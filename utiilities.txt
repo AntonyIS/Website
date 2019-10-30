@@ -1,4 +1,0 @@
-<!--server:localhost:3306-->
-<!--dbname : maxontou_portfolio-->
-<!--user:maxontou_injila-->
-<!--password :GEOgraphy001-->
