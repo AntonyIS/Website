@@ -1,0 +1,65 @@
+#top_section{
+    text-align: center;
+    margin-top: 50px;
+    font-family: cursive,sans-serif;
+
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    height: 100px;
+    width: 100px;
+    background-size: 100%, 100%;
+    border-radius: 50%;
+    background-image: none;
+}
+
+.carousel-control-next-icon:after
+{
+    content: '...';
+    font-size: 55px;
+    color: #FF8800;
+}
+
+.carousel-control-prev-icon:after {
+    content: '...';
+    font-size: 55px;
+    color: #FF8800;
+}
+
+/*index page*/
+#inner-section{
+    text-align: left;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-size: 30px;
+
+}
+#inner_main{
+    height: 60vh;
+}
+
+/*Project listing*/
+#project-list{
+    /*background-color: cornsilk;*/
+    margin-top: 20px;
+
+}
+
+/*front end to back end*/
+/*footer section*/
+#footer{
+    background-color: #FF8800;
+    max-height: 60vh;
+    text-align: center;
+    padding-top: 1px;
+}
+#footer{
+    text-align: center
+}
+li a{
+    padding: 20px;
+    display: block;
+    text-decoration: none;
+}
+#fo

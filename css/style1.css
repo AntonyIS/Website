@@ -1,0 +1,92 @@
+#navbar-custom{
+    background-color:#FF8800;
+}
+
+#top_section{
+    text-align: center;
+    margin-top: 50px;
+    font-family: cursive,sans-serif;
+
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    height: 100px;
+    width: 100px;
+    background-size: 100%, 100%;
+    border-radius: 50%;
+    background-image: none;
+}
+
+.carousel-control-next-icon:after
+{
+    content: '...';
+    font-size: 55px;
+    color: #FF8800;
+}
+
+.carousel-control-prev-icon:after {
+    content: '...';
+    font-size: 55px;
+    color: orange;
+    padding: -200px;
+}
+
+/*index page*/
+#inner-section{
+    text-align: left;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-size: 30px;
+
+}
+#inner_main{
+    height: 60vh;
+}
+
+/*Project listing*/
+#project-list{
+    /*background-color: cornsilk;*/
+    margin-top: 20px;
+
+}
+
+/*front end to back end*/
+/*footer section*/
+
+#footer{
+    background-color: orange;
+    /*position: absolute;*/
+    /*left: 0;*/
+    /*bottom: 0;*/
+    /*height: 100px;*/
+    /*width: 100%;*/
+    /*overflow: hidden;*/
+}
+li a{
+    padding: 20px;
+    display: block;
+    text-decoration: none;
+}
+
+.fab {
+    text-align: center;
+    padding: 20px;
+    float: right;
+    color: black;
+
+}
+.fab.fa-youtube{
+    color: red
+}
+
+.fab.fa-linked{
+    color: dodgerblue;
+}
+#footer-list li a{
+    text-decoration: none;
+    color: black;
+    font-weight:bolder;
+}
+
+
